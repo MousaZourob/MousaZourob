@@ -6,6 +6,8 @@
 <br />
 ⚡ Hobbies include programming, weight lifting, and binging Doug Demuro car reviews
 <br />
+<br />
+<br />
 
 
 #### 💻 Skills:
