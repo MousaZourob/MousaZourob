@@ -5,8 +5,11 @@
 💡 Interested in data science, software development, and web development
 <br />
 ⚡ Hobbies include programming, weight lifting, and binging Doug Demuro car reviews
+<br />
 
 ### 💻 Skills:
+<img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" width="48">
 
 ### 📫 Reach out:
+
 
