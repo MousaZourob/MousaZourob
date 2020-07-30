@@ -1,8 +1,6 @@
 # 🙋‍♂️ Hi, I'm Mousa!
 
-<img src="https://media2.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif">
-
-🏫 I'm a Software Engineering student at the University of Waterloo, with a passion for learning, technology and leading positive change! 
+<img align="left"src="https://media2.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif"> 🏫 I'm a Software Engineering student at the University of Waterloo, with a passion for learning, technology and leading positive change! 
 <br />
 💡 Interested in data science, software development, and web development
 <br />
