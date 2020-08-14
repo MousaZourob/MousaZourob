@@ -10,7 +10,6 @@
 <br />
 <br />
 
-<div align="left">
 #### 💻 Skills:
 <table>
   <tr>
@@ -23,7 +22,6 @@
     <td><img title="AWS Lambda" alt="AWS Lambda" src="https://i.imgur.com/OJPCtm8.jpg" width="48"></td>
   </tr>
 </table>
-</div> 
 
 #### 📫 Reach out:
 [![Gmail](https://img.shields.io/badge/-MousaZourob@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:MousaZourob@gmail.com)
