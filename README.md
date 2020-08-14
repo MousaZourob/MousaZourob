@@ -10,8 +10,8 @@
 <br />
 <br />
 
-#### 💻 Skills:
 <div align="left">
+#### 💻 Skills:
   <table>
     <tr>
       <td><img title="Java" alt="Java" src="https://img.icons8.com/all/500/java-coffee-cup-logo.png" width="48"></td>
@@ -25,6 +25,8 @@
   </table>
 </div> 
 
-#### 📫 Reach out:
-[![Gmail](https://img.shields.io/badge/-MousaZourob@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:MousaZourob@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Mousa_Zouorb-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mousazourob/) 
+<div align="right">
+  #### 📫 Reach out:
+  [![Gmail](https://img.shields.io/badge/-MousaZourob@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:MousaZourob@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/-Mousa_Zouorb-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mousazourob/) 
+</div>
