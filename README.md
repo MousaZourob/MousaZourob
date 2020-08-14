@@ -7,6 +7,7 @@
 💡 Interested in data science, software development, and web development
 <br />
 ⚡ Aside from programming, my hobbies include weight lifting, chess, and binging Doug Demuro car reviews
+<br />
 
 #### 💻 Skills:
 <table>
