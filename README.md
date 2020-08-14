@@ -21,8 +21,6 @@
     <td><img title="C#" alt="C#" src="https://img.icons8.com/all/500/c-sharp-logo.png" width="48"></td>
     <td><img title="AWS Lambda" alt="AWS Lambda" src="https://i.imgur.com/OJPCtm8.jpg" width="48"></td>
   </tr>
-</table>
-
-#### 📫 Reach out:
+</table>#### 📫 Reach out:
 [![Gmail](https://img.shields.io/badge/-MousaZourob@gmail.com-c14438?logo=Gmail&logoColor=white)](mailto:MousaZourob@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Mousa_Zouorb-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mousazourob/) 
