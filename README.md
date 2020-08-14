@@ -3,6 +3,7 @@
 <img align="right" src="https://media2.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" height="250"> 🏫 Software Engineering student at the University of Waterloo, with a passion for learning, technology, and leading positive change! 
 <br />
 🏢 QA Intern at Big Blue Bubble
+<br />
 🏢 IT Assitant at the University of Wester Ontario
 <br />
 💡 Interested in data science, software development, and web development
