@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" height="250"> 🏫 **Software Engineering student at the University of Waterloo**, with a passion for learning, technology, and leading positive change! 
 <br />
-🏢 **Currently interning at SAP,** previously at Toyota / Big Blue Bubble / University of Western Ontario
+🏢 **Currently SWE Intern @ SAP,** previously at Toyota | Big Blue Bubble | University of Western Ontario
 <br />
 💡 Interested in data science, software development, and web development
 <br />
