@@ -4,7 +4,7 @@
 <br />
 🏢 **Currently SWE Intern @ SAP** | Previously at Toyota, Big Blue Bubble, University of Western Ontario
 <br />
-💡 Interested in data science, software development, and web development
+💡 Interested in software development, data engineering, and web development
 <br />
 ⚡ Aside from programming, my hobbies include weight lifting, chess, soccer, and binging Doug Demuro car reviews
 <br />
