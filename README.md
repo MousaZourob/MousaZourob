@@ -18,6 +18,10 @@
 </a>
 
 <br />
+<br />
+<br />
+<br />
+<br />
 
 #### 📫 Reach out:
 [![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:mousa.zourob@uwaterloo.ca)
