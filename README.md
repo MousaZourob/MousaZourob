@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hi, I'm Mousa!
 
-<img align="right" src="https://media2.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" height="250"> 🏫 **Software Engineering student at the University of Waterloo**, with a passion for learning, technology, and leading positive change! 
+🏫 **Software Engineering student at the University of Waterloo**, with a passion for learning, technology, and leading positive change! 
 <br />
 🏢 **Currently SWE Intern @ SAP** | Previously at Toyota, Big Blue Bubble, University of Western Ontario
 <br />
