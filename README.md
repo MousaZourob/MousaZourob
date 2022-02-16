@@ -10,18 +10,9 @@
 <br />
 <br />
 
-#### 💻 Skills:
-<table>
-  <tr>
-    <td><img title="Java" alt="Java" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/java.png" width="48"></td>
-    <td><img title="Python" alt="Python" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/python.png" width="48"></td>
-    <td><img title="HTML" alt="HTML" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/html.png" width="48"></td>
-    <td><img title="CSS" alt="CSS" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/css.png" width="44"></td>
-    <td><img title="JavaScript" alt="JavaScript" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/js.png" width="48"></td>
-    <td><img title="C#" alt="C#" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/c%23.png" width="48"></td>
-    <td><img title="AWS Lambda" alt="AWS Lambda" src="https://github.com/MousaZourob/MousaZourob/blob/master/pics/lambda.jpg" width="48"></td>
-  </tr>
-</table>
+[![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MousaZourobr&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&hide=Assembly,CSS,jupyter%20notebook&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Reach out:
 [![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:mousa.zourob@uwaterloo.ca)
