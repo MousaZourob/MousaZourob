@@ -24,5 +24,5 @@
 </table>
 
 #### 📫 Reach out:
-[![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:m2zourob@uwaterloo.ca)
+[![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:mousa.zourob@uwaterloo.ca)
 [![Linkedin](https://img.shields.io/badge/-Mousa_Zouorb-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mousazourob/) 
