@@ -10,10 +10,10 @@
 <br />
 <br />
 
-[![Mousa's GitHub stats](![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=dark&hide=contribs,issues,prs)
+[![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=dark&hide=contribs,issues,prs)
 
 
- [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&hide=Assembly,CSS,C#&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&hide=C#&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Reach out:
 [![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:mousa.zourob@uwaterloo.ca)
