@@ -10,7 +10,8 @@
 <br />
 <br />
 
-[![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Mousa's GitHub stats](![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=react&hide=contribs,prs)
+
 
  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&hide=Assembly,CSS,C#&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
