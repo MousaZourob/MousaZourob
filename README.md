@@ -16,15 +16,3 @@
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&exclude_repo=Cuber&hide=CSS,jupyter%20notebook&layout=compact&theme=dark"/>
 </a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-#### 📫 Reach out:
-[![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:mousa.zourob@uwaterloo.ca)
-[![Linkedin](https://img.shields.io/badge/-Mousa_Zouorb-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mousazourob/) 
