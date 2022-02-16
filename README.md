@@ -11,10 +11,10 @@
 <br />
 
 <a>
-  ![Mousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=dark&hide=contribs,issues,prs)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=dark&hide=contribs,issues,prs"/>
 </a>
 <a>
-  ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&exclude_repo=Cuber&hide=CSS,jupyter%20notebook&layout=compact&theme=dark)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&exclude_repo=Cuber&hide=CSS,jupyter%20notebook&layout=compact&theme=dark"/>
 </a>
 
 #### 📫 Reach out:
