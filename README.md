@@ -10,18 +10,21 @@
 <br />
 <br />
 
-<ul>
-    <li style="display:inline-block;">
-      <a>
-        <src="https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=dark&hide=contribs,issues,prs"/>
-      </a>
-    </li>
-    <li style="display:inline-block;">
-      <a>
-        <src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&exclude_repo=Cuber&hide=CSS,jupyter%20notebook&layout=compact&theme=dark"/>
-      </a>
-    </li>
-</ul>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MousaZourob&count_private=true&show_icons=true&theme=dark&hide=contribs,issues,prs"/>
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaZourob&exclude_repo=Cuber&hide=CSS,jupyter%20notebook&layout=compact&theme=dark"/>
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 #### 📫 Reach out:
 [![Gmail](https://img.shields.io/badge/-mousa.zourob@uwaterloo.ca-c14438?logo=Gmail&logoColor=white)](mailto:mousa.zourob@uwaterloo.ca)
 [![Linkedin](https://img.shields.io/badge/-Mousa_Zouorb-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mousazourob/) 
