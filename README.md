@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mousa</h1>
 <h3 align="center">Software Engineering student at the University of Waterloo, with a passion for engineering scalable software and leading positive change!</h3>
 
-🏢 **Currently SWE Intern @ PointClickCare** | Previously at SAP, Toyota
+🏢 **Currently SWE Intern @ PointClickCare** | Previously at SAP, Toyota Canada
 
 🌱 I’m currently learning more about **distributed systems, data engineering, and automation & tooling**
 
-⚡ Aside from programming, my hobbies include weight lifting, chess, soccer, and binging Doug Demuro car reviews
+⚡ Aside from programming, my hobbies include weight lifting, chess, soccer, and binging Doug Demuro car reviews!
 
 📫 Reach out to me at **m2zourob@uwaterloo.ca**
 
