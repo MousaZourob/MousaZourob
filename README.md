@@ -3,7 +3,7 @@
 
 🏢 **Currently SWE Intern @ PointClickCare** | Previously at SAP, Toyota Canada
 
-🌱 I’m currently learning more about **distributed systems, data engineering, and automation & tooling**
+🌱 I’m currently learning more about **data engineering, automation & tooling, and distributed systems**
 
 ⚡ Aside from programming, my hobbies include weight lifting, chess, soccer, and binging Doug Demuro car reviews!
 
