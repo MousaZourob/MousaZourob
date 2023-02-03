@@ -11,6 +11,8 @@
 
 💼 Connect with me on **[Linkedin](https://www.linkedin.com/in/mousazourob/)**
 
+![](https://komarev.com/ghpvc/?username=MousaZourob)
+
 <br />
 
 <p>
