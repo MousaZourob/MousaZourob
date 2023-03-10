@@ -3,7 +3,7 @@
 
 🏢 **Seeking Summer 2023 internships!** | Previously @ SAP, Toyota Canada, PointClickCare
 
-🌱 I’m currently learning more about **data engineering, distributed systems, and automation & tooling**
+🌱 I’m currently learning more about **data engineering, distributed systems, and scalable architecture**
 
 ⚡ Aside from programming, my hobbies include weight lifting, chess, soccer, and binging Doug Demuro car reviews!
 
