@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mousa</h1>
 <h3 align="center">Software Engineering student at the University of Waterloo, with a passion for engineering scalable software and leading positive change!</h3>
 
-🏢 **Seeking Summer 2023 internships!** | Previously @ SAP, Toyota Canada, PointClickCare
+🏢 **SWE @ StackAdapt** | Previously @ SAP, Toyota Canada, PointClickCare
 
 🌱 I’m currently learning more about **data engineering, distributed systems, and scalable architecture**
 
