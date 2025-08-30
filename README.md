@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mousa</h1>
-<h3 align="center">Software Engineering student at the University of Waterloo, with a passion for engineering scalable software and leading positive change!</h3>
+<h3 align="center">Engineering scalable software, leading positive change</h3>
 
-🏢 **SWE @ StackAdapt** | Previously @ SAP, Toyota, PointClickCare
+🏢 **SWE @ Bloomberg** | Previously @ Balyasny Asset Management, StackAdapt, PointClickCare, SAP, Toyota
 
 🌱 I’m currently learning more about **data engineering, distributed systems, and scalable architecture**
 
