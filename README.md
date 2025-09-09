@@ -2,7 +2,7 @@
 
 🏢 **SWE @ Bloomberg** | Previously @ Balyasny Asset Management, StackAdapt, PointClickCare, SAP, Toyota
 
-🌱 I’m currently learning more about **data engineering, distributed systems, and scalable architecture**
+🌱 I’m currently learning more about **real time distributed systems and scalable architecture**
 
 ⚡ Aside from programming, my hobbies include weight lifting, chess, soccer, and binging Doug Demuro car reviews!
 
